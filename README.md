@@ -66,11 +66,6 @@ SportsClubManagementSystem/
 ├── LICENSE
 └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## 📋 Requirements
 
@@ -94,13 +89,11 @@ mkdir build && cd build
 cmake ..
 cmake --build .
 ▶️ Running the Program
-bash
-Copy
-Edit
+
 ./SportsClubManagementSystem
 The program will launch a terminal-based interface allowing access to user, instructor, and admin modules.
 
-📈 Future Enhancements
+ 📈 Future Enhancements
 GUI version using Qt or ImGui
 
 Database integration (SQLite or MySQL)
@@ -116,9 +109,8 @@ This project is licensed under the MIT License.
 See the LICENSE file for more information.
 
 🙋‍♂️ Author
-Your Name
-📧 your.email@example.com
-🔗 GitHub Profile
+Muhammad Ozair Khalid
+Cybersecurity 2nd semester 
 
 Developed as a capstone project for an Object-Oriented Programming (OOP) course, demonstrating real-world application of C++ design patterns, encapsulation, inheritance, and polymorphis
 
