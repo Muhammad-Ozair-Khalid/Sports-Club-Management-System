@@ -55,17 +55,20 @@ This project simulates the operations of a sports or fitness club. It allows:
 
 ---
 
-## 🧱 Project Structure
+## 📁 Project Structure
 
+```
 SportsClubManagementSystem/
-├── include/ # Header files (class declarations)
-├── src/ # Source files (class definitions)
-├── data/ # Stored data files (users, instructors, sessions)
-├── main.cpp # Application entry point
-├── CMakeLists.txt # CMake build configuration
+├── include/            # Header files (class declarations)
+├── src/                # Source files (class definitions)
+├── data/               # Stored data files (users, instructors, sessions)
+├── main.cpp            # Application entry point
+├── CMakeLists.txt      # CMake build configuration
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
+
 
 
 ## 📋 Requirements
@@ -78,7 +81,7 @@ SportsClubManagementSystem/
 
 ## ⚙️ Installation
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/yourusername/SportsClubManagementSystem.git
 cd SportsClubManagementSystem
@@ -93,6 +96,7 @@ cmake --build .
 
 ./SportsClubManagementSystem
 The program will launch a terminal-based interface allowing access to user, instructor, and admin modules.
+
 
  📈 Future Enhancements
 GUI version using Qt or ImGui
