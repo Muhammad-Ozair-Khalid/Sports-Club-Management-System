@@ -63,7 +63,6 @@ SportsClubManagementSystem/
 ├── src/                # Source files (class definitions)
 ├── data/               # Stored data files (users, instructors, sessions)
 ├── main.cpp            # Application entry point
-├── CMakeLists.txt      # CMake build configuration
 ├── .gitignore
 ├── LICENSE
 └── README.md
