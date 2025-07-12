@@ -56,4 +56,69 @@ This project simulates the operations of a sports or fitness club. It allows:
 ---
 
 ## 🧱 Project Structure
+SportsClubManagementSystem/
+├── include/ # Header files (class declarations)
+├── src/ # Source files (class definitions)
+├── data/ # Stored data files (users, instructors, sessions)
+├── main.cpp # Application entry point
+├── CMakeLists.txt # CMake build configuration
+├── .gitignore
+├── LICENSE
+└── README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 📋 Requirements
+
+- C++17 compatible compiler (e.g., `g++`, `MSVC`)
+- CMake 3.15 or higher
+- Windows OS (due to `strcpy_s` and `getch()` compatibility)
+
+---
+
+## ⚙️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/SportsClubManagementSystem.git
+cd SportsClubManagementSystem
+
+# Create a build directory
+mkdir build && cd build
+
+# Generate and build
+cmake ..
+cmake --build .
+▶️ Running the Program
+bash
+Copy
+Edit
+./SportsClubManagementSystem
+The program will launch a terminal-based interface allowing access to user, instructor, and admin modules.
+
+📈 Future Enhancements
+GUI version using Qt or ImGui
+
+Database integration (SQLite or MySQL)
+
+Encrypted login and authentication
+
+REST API for mobile app support
+
+Automated unit tests with Catch2
+
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for more information.
+
+🙋‍♂️ Author
+Your Name
+📧 your.email@example.com
+🔗 GitHub Profile
+
+Developed as a capstone project for an Object-Oriented Programming (OOP) course, demonstrating real-world application of C++ design patterns, encapsulation, inheritance, and polymorphis
 
