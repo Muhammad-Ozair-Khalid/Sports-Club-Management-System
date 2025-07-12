@@ -56,6 +56,7 @@ This project simulates the operations of a sports or fitness club. It allows:
 ---
 
 ## 🧱 Project Structure
+
 SportsClubManagementSystem/
 ├── include/ # Header files (class declarations)
 ├── src/ # Source files (class definitions)
