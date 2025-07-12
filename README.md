@@ -81,41 +81,50 @@ SportsClubManagementSystem/
 
 ## ⚙️ Installation
 
-bash
+Make sure you have a C++17 compiler and CMake installed.
+
+### 🔧 Clone and Build the Project
+
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/SportsClubManagementSystem.git
 cd SportsClubManagementSystem
 
-# Create a build directory
+# Create and navigate to the build directory
 mkdir build && cd build
 
-# Generate and build
+# Generate and build the project using CMake
 cmake ..
 cmake --build .
-▶️ Running the Program
+```
 
+---
+
+## ▶️ Running the Application
+
+After building, you can run the executable (from the `build` directory):
+
+```bash
 ./SportsClubManagementSystem
-The program will launch a terminal-based interface allowing access to user, instructor, and admin modules.
+```
 
+> The program will launch a console-based interface with options for Users, Instructors, and Admins.
 
- 📈 Future Enhancements
-GUI version using Qt or ImGui
+---
 
-Database integration (SQLite or MySQL)
+## 📄 License
 
-Encrypted login and authentication
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full license details.
 
-REST API for mobile app support
+---
 
-Automated unit tests with Catch2
+## 👨‍💻 Author
 
-📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for more information.
+**Your Name**  
+📧 your.email@example.com  
+🔗 [GitHub Profile](https://github.com/yourusername)
 
-🙋‍♂️ Author
-Muhammad Ozair Khalid
-Cybersecurity 2nd semester 
+> This project was created as a final assignment for the **Object-Oriented Programming (OOP)** course, showcasing practical application of C++ classes, inheritance, file handling, and encapsulation.
 
-Developed as a capstone project for an Object-Oriented Programming (OOP) course, demonstrating real-world application of C++ design patterns, encapsulation, inheritance, and polymorphis
-
+---
