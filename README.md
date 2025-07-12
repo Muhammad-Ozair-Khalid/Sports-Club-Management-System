@@ -122,7 +122,8 @@ See the [LICENSE](LICENSE) file for full license details.
 ## 👨‍💻 Author
 
 Muhammad Ozair Khalid
-Cybersecurity 2nd semester
+
+Bs Cybersecurity-2nd semester
 
 > This project was created as a final assignment for the **Object-Oriented Programming (OOP)** course, showcasing practical application of C++ classes, inheritance, file handling, and encapsulation.
 
