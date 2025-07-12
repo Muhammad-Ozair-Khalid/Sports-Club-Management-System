@@ -121,9 +121,8 @@ See the [LICENSE](LICENSE) file for full license details.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [GitHub Profile](https://github.com/yourusername)
+Muhammad Ozair Khalid
+Cybersecurity 2nd semester
 
 > This project was created as a final assignment for the **Object-Oriented Programming (OOP)** course, showcasing practical application of C++ classes, inheritance, file handling, and encapsulation.
 
